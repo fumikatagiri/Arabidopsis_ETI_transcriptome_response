@@ -22,4 +22,4 @@ Outputs include: Figs 5, S4, and S5. Table S2. Multiple intermediate .RData file
 
 Input data sets are in ./data/
 
-Outputs are in ./outputs/
+Outputs subfolder is required to run the scripts: ./outputs/
